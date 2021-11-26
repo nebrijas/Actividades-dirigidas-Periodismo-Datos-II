@@ -5,6 +5,8 @@
 ##### Por: Sofía del Pilar Ariza Díaz
 ---
 
+![K6DQU-tendencias-presidenciales-en-eeuu](https://user-images.githubusercontent.com/94479721/143603654-aab01642-9071-4b7f-b6c1-84f305e9b1b5.png) 
+
 #### *Enlace de la visualización:*  https://datawrapper.dwcdn.net/K6DQU/1/ 
 #### *Enlace para compartir:* https://www.datawrapper.de/_/K6DQU/ 
 
