@@ -2,7 +2,7 @@
 ---
 ## PERSISTE EL DESEMPLEO EN EL MUNICIPIO DE IBAGUÉ   
 ---
-### *Por Sofía del Pilar Ariza Díaz
+### *Por Sofía del Pilar Ariza Díaz*
 
 El 6 de marzo del 2020 se confirmó el primer caso de Coronavirus en la capital de Colombia, en el que la mayoría de los colombianos no imaginaba que esta epidemia iba a prolongarse hasta esta fecha. El Gobierno nacional decidió cerrar todo el sector económico que generó este virus letal. 
 
