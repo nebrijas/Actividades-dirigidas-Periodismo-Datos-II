@@ -27,5 +27,5 @@ Dentro de las trece principales ciudades del país, Ibagué se caracteriza por s
 Podemos observar en el indicador de la TD (tasa del desempleo) entre los años 2019-2020 subió (número). El deterioro que ha tenido la economía en el último año por los temas de pandemia ha hecho que la estructura empresarial y productiva esté debilitada. Lo que se preveía de reactivación económica, con el tercer pico que se fue dando en Colombia, no fue el que se estaba buscando desde el sector productivo.
 
 
-Para la realización de estas visualizaciones en Datawrapper 
+Para la realización de estas visualizaciones que se hicieron en **Datawrapper** fueron obtenidos a través de la página [Ministerio de salud en Colombia](https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx) y en el [departamento administrativo nacional de estadística, DANE] (file:///C:/Users/sofia/Downloads/Presentaci%C3%B3n%20Ibague%20mar%20-%20may%2020.pdf). Las estadísticas que representan en estas páginas son tablas, así lo que hice fue descargarlas y organizarlas en OpenRefine. 
 
