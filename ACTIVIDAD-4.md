@@ -10,7 +10,7 @@ De acuerdo con la tendencia reciente del aumento de personas contagiadas y falle
 
 A partir de ahí, muchos ibaguereños han recurrido a ocupaciones informales, tratando de conseguir ingresos para el día a día, pagando impuestos o servicios públicos. Se entiende que la situación económica y el ahorro depende del trabajo y del ingreso de los hogares, una situación compleja ya que estos métodos para aumentar el parque industrial y la producción no impactan lo suficiente para superar el problema.
 
-*Un panorama actual sobre la situación del COVID-19 aquí en Colombia que se obtuvo en la base de datos del Ministerio de Salud el día 17 de noviembre del 2021. 
+*Un panorama actual sobre la situación del COVID-19 aquí en Colombia que se obtuvo en la base de datos del Ministerio de Salud el día 17 de noviembre del 2021.* 
 
 ![mEqin-situaci-n-del-covid-19-en-colombia (1)](https://user-images.githubusercontent.com/94479721/143951072-8937ccf4-848a-48c5-a0fd-7a37bb9c8b75.png)
 
