@@ -29,5 +29,7 @@ Dentro de las trece principales ciudades del país, Ibagué se caracteriza por s
 Podemos observar en el indicador de la TD (tasa del desempleo) entre los años 2019-2020 subió (número). El deterioro que ha tenido la economía en el último año por los temas de pandemia ha hecho que la estructura empresarial y productiva esté debilitada. Lo que se preveía de reactivación económica, con el tercer pico que se fue dando en Colombia, no fue el que se estaba buscando desde el sector productivo.
 
 
+El reportaje va enfocado el desempleo por consecuencia de la pandemia en la ciudad de Ibagué, Colombia (donde yo vivo actualmente).Me pareció un tema interesante, ya que esta ciudad está en el ranking con más desempleados, según el DANE. Este municipio ha vivido con esta problemática desde hace varios años Ibagué ha presentado altas tasas de desocupación e informalidad laboral por encima de la media nacional, trayendo consigo graves problemas sociales asociados con la pobreza y la falta de oportunidades para la población.
+
 Para la realización de estas visualizaciones que se hicieron en **Datawrapper** fueron obtenidos a través de la página [Ministerio de salud en Colombia](https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx) y en el departamento administrativo nacional de estadística, DANE. Las estadísticas que representan en estas páginas son tablas, así lo que hice fue descargarlas y organizarlas en OpenRefine, ya que estaban desorganizadas y quería que se comprendieran fácilmente. 
 
